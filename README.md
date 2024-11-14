@@ -2,6 +2,8 @@
 
 A Stock Analysis Tool built with Python and Streamlit for technical analysis of stocks and cryptocurrencies. This tool uses common technical indicators such as Stochastic Oscillator, Relative Strength Index (RSI), and Moving Average Convergence Divergence (MACD) to help users make informed trading decisions.
 
+Link to website: https://storsimacd.streamlit.app/
+
 ## Features
 
 - **Stochastic Oscillator**: Displays %K and %D lines to evaluate overbought and oversold conditions.
