@@ -27,6 +27,9 @@ Link to website: https://storsimacd.streamlit.app/
 
 1. Clone the repository:
 
+2. Install required packages
+
+3. Run program in command prompt
    ```bash
    git clone https://github.com/yourusername/stock-analysis-tool.git
    cd stock-analysis-tool
